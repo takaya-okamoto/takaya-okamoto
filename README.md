@@ -1,4 +1,4 @@
-<h2>👋 Hello there!</h2>
+<h2>👋 Hi there!</h2>
 
 <!---
 takaya-okamoto/takaya-okamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
