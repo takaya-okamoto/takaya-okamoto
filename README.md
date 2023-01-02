@@ -1,6 +1,6 @@
 <h2>👋 Hi there!</h2>
 <p>welcom to my page!</p>
-<p>I'm Takaya！ Blockchain and Frontend Enginner from Japan🇯🇵</p>
+<p>I'm Taka！ Blockchain and Frontend Enginner from Japan🇯🇵</p>
 
 <!---
 takaya-okamoto/takaya-okamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
