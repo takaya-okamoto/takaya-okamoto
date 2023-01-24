@@ -1,5 +1,5 @@
 <h2>👋 Hi there!</h2>
-<p>welcom to my page!</p>
+<p>Welcom to my page!</p>
 <p>I'm Taka！ Blockchain and Frontend Enginner from Japan🇯🇵</p>
 
 <!---
