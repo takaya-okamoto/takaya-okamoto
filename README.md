@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takaya-okamoto&bg_color=00000000&show_icons=ture" />
 </p>
 
-<a src="https://zenn.dev/taka_crypt">Zenn</a>
+<>
 <p>Zenn</p>
 <p>https://zenn.dev/taka_crypt</p>
+</>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white&color=1c305c)](https://twitter.com/taka_yolo)
